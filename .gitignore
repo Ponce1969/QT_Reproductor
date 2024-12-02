@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de construcción
+build/
+dist/
+*.spec
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos IDE
+.idea/
+.vscode/
+*.swp
